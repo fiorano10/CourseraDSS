@@ -5,6 +5,7 @@ Contains all the R code being developed for Coursera Data Science Specialization
 It contains the following courses(10):
 
 -The Data Scientist’s Toolbox
+
 -R Programming
 -Getting and Cleaning Data
 -Exploratory Data Analysis
