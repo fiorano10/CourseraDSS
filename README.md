@@ -23,3 +23,5 @@ It contains the following courses(10):
 -Developing Data Products
 
 -Data Science Capstone
+
+info: https://www.coursera.org/specializations/jhu-data-science
