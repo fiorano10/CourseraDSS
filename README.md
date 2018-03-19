@@ -8,7 +8,7 @@ It contains the following courses(10):
 
 -R Programming
 
--Getting and Cleaning Data
+-Getting and Cleaning Data (Current)
 
 -Exploratory Data Analysis
 
